@@ -1,1 +1,1 @@
-dataset/powerliftingdataset.csv filter=lfs diff=lfs merge=lfs -text
+dataset/usapl_powerlifting.csv filter=lfs diff=lfs merge=lfs -text
