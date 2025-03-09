@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
-  const backendUrl = "http://localhost:8000/api/model";
+  const backendUrl = "https://powerlifting-ml-app.onrender.com/api/model";
   try {
     const body = await req.json();
     console.log("API Route received body:", body);
