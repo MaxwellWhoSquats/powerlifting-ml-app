@@ -2,7 +2,7 @@
 
 ### A cloud-hosted ML model used for predicting Powerlifting weight attempts and performing filtered statistical analysis on the open dataset.
 
-⚠️ **Note** - When accessing the provided link, the tool may not work as I'm no longer paying to host the backend (hosted separately). This was for a school project.
+⚠️ **Note** - I'm no longer paying to host the backend (hosted separately). This was for a school project.
 
 ---
 
